@@ -11,7 +11,7 @@ Platform assembly: C:\Users\azarkin\Documents\GitHub\AutomatisationClient\Source
 Loading C:\Users\azarkin\Documents\GitHub\AutomatisationClient\Source\start_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\azarkin\Documents\GitHub\AutomatisationClient\Source\start_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\azarkin\Documents\GitHub\AutomatisationClient\Source\start_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.138 seconds
+- Completed reload, in  0.597 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
